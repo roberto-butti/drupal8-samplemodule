@@ -1,0 +1,7 @@
+samplemodule.page:
+  path: '/my/main'
+  defaults:
+    _controller: 'Drupal\samplemodule\Controller\SampleController::mainPage'
+    _title: 'This is the title'
+  requirements:
+    _permission: 'access content'

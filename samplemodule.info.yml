@@ -1,0 +1,9 @@
+name: My First Sample Module
+description: Sample First Module for Drupal 8
+core: 8.x
+#package: Custom
+#dependencies:
+#- node
+#- block
+type: module
+
